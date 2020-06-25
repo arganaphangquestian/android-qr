@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">QR Code</string>
+    <string name="click_to_scan">Click To Scan</string>
+</resources>
